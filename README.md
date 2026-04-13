@@ -187,7 +187,7 @@
 Заполнение таблиц измерений и фактов данными из всех источников находится в файле [2. DML_DWH.sql](https://github.com/stmax22/Handmade_Marketplace/blob/f8bcd3f0c0783ddea124afe2747e92ea066dfe22/2.%20DML_DWH.sql).
 
 ## Создание витрин данных
-Создание витрин данных и таблиц для инкрементальной загрузки находится в файле [3. DDL_Datamart.sql](https://github.com/stmax22/Handmade_Marketplace/blob/f8bcd3f0c0783ddea124afe2747e92ea066dfe22/3.%20DDL_Datamart.sql).
+Создание витрин данных и таблиц для инкрементальной загрузки находится в файле [3. DDL_Datamart.sql](https://github.com/stmax22/Handmade_Marketplace/blob/10ab9cd67e57887fb135d54e40ab520b5c18bca8/3.%20DDL_Datamart.sql).
 
 ### Таблица craftsman_report_datamart
 Витрина данных по мастерам ручной работы за отчётные периоды.
